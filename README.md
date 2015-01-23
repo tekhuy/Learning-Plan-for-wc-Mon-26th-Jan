@@ -17,3 +17,6 @@ Challenges:
 - Rock Paper Scissors
 - Chitter
 
+Tutorials to complete:
+- Codeacademy javascript
+- Codeacademy HTML and CSS
